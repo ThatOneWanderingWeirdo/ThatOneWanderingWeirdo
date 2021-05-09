@@ -15,6 +15,12 @@
 - 💬 Ask me about Beetlejuice!
 - 😄 Pronouns: They/them
  
+ <p align="center">
+  <img src="https://gpvc.arturio.dev/Blotz" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Blotz?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/Blotz?label=Stars" alt="Total Stars">
+</p>
+
 --------
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=ThatOneWanderingWeirdo&theme=darcula&show_icons=true&count_private=true" width="45%"/>
