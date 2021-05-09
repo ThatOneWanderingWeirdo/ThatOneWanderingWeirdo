@@ -1,6 +1,6 @@
-### Hello! 👋 
+
 <h1 align="center">
-  𝐇i!
+  Hi! Welcome to my page
   <a target="_blank">
     <img src="https://cdn.discordapp.com/emojis/696560649437970482.gif?v=1" width="40px" />
   </a>
