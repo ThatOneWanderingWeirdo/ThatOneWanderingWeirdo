@@ -4,7 +4,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneWanderingWeirdo&layout=compact&theme=dark" width="45%"/>
 
 
-Here are some ideas to get you started:
+
+
+
 
 - 🔭 I’m currently working on maintaining and adding features to Beetlejuice.
 - 🌱 I’m currently learning python and SQLite3
