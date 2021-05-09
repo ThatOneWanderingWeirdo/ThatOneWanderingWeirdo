@@ -1,4 +1,5 @@
-### Hello! 👋
+### Hello! 👋 
+<img align= "right" width= "240" src= "https://gamepedia.cursecdn.com/minecraft_gamepedia/thumb/e/e5/Bee_with_nectar.gif/120px-Bee_with_nectar.gif?version=6d99eb29ccbaf96d9bbf90e2cbb0c202"/>
 - 🔭 I’m currently working on maintaining and adding features to Beetlejuice.
 - 🌱 I’m currently learning python and SQLite3
 - 💬 Ask me about Beetlejuice!
