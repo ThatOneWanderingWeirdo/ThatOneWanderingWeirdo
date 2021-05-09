@@ -16,9 +16,9 @@
 - 😄 Pronouns: They/them
  
  <p align="center">
-  <img src="https://gpvc.arturio.dev/Blotz" alt="profile views"> •  
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Blotz?label=Followers&style=social"> •   
-  <img src="https://img.shields.io/github/stars/Blotz?label=Stars" alt="Total Stars">
+  <img src="https://gpvc.arturio.dev/ThatOneWanderingWeirdo" alt="profile views"> •  
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/ThatOneWanderingWeirdo?label=Followers&style=social"> •   
+  <img src="https://img.shields.io/github/stars/ThatOneWanderingWeirdo?label=Stars" alt="Total Stars">
 </p>
 
 --------
