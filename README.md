@@ -1,5 +1,4 @@
 ### Hello! 👋
--------
 - 🔭 I’m currently working on maintaining and adding features to Beetlejuice.
 - 🌱 I’m currently learning python and SQLite3
 - 💬 Ask me about Beetlejuice!
