@@ -4,5 +4,5 @@
 - 💬 Ask me about Beetlejuice!
 - 😄 Pronouns: They/them
 -------
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThatOneWanderingWeirdo&theme=darcula&show_icons=true" width="45%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ThatOneWanderingWeirdo&theme=darcula&show_icons=true&count_private=true" width="45%"/>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThatOneWanderingWeirdo&layout=compact&theme=darcula" width="45%"/>
