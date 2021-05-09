@@ -2,7 +2,7 @@
 <h1 align="center">
   Hi! Welcome to my page
   <a target="_blank">
-    <img src="https://cdn.discordapp.com/emojis/696560649437970482.gif?v=1" width="40px" />
+    <img align= "center" width= "40" src= "https://cdn.discordapp.com/emojis/696560649437970482.gif?v=1"/>
   </a>
 </h1>
 
