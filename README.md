@@ -10,9 +10,9 @@
 
 -------
 
-- 🔭 I’m currently working on maintaining and adding features to Beetlejuice.
-- 🌱 I’m currently learning python and SQLite3
-- 💬 Ask me about Beetlejuice!
+- 🔭 I’m currently a College student in Cybersecurity
+- 🌱 I’m currently learning HTML and CSS 
+- 💬 Ask me about discord bots (python) or the Pluralkit API!
 - 😄 Pronouns: They/them
  
  <p align="center">
