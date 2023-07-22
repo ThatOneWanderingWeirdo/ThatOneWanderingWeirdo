@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently a College student in Computer Science and Technical Communication
 - 🌱 I’m currently learning HTML and CSS 
-- 💬 Ask me about discord bots (python) or the Pluralkit API!
+- 💬 Ask me about the Pluralkit API!
 - 😄 Pronouns: They/them
  
  <p align="center">
