@@ -1,9 +1,6 @@
 
 <h1 align="center">
   Hi! Welcome to my page
-  <a target="_blank">
-    <img align= "center" width= "40" src= "https://cdn.discordapp.com/emojis/696560649437970482.gif?v=1"/>
-  </a>
 </h1>
 
 
@@ -11,10 +8,10 @@
 
 -------
 
-- 🔭 I’m currently a College student in Computer Science and Technical Communication
-- 🌱 I’m currently learning HTML and CSS 
-- 💬 Ask me about the Pluralkit API!
-- 😄 Pronouns: They/them
+- 🍵 I’m currently a College student in Computer Science and Technical Communication with a focus on web accessibility
+- 🍵 I’m currently learning HTML and CSS, along with LAMP stacks! 
+- 🍵 Ask me about the Pluralkit API!
+- 🍵 Pronouns: They/them/theirs or Ey/em/eirs
  
  <p align="center">
   <img src="https://gpvc.arturio.dev/ThatOneWanderingWeirdo" alt="profile views"> •  
